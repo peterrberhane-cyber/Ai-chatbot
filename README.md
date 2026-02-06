@@ -31,3 +31,9 @@ The purpose of this project is to demonstrate:
 
 ## 👤 Author
 Created by a student for an IB MYP project.
+
+index.html   → the webpage
+style.css    → the design
+script.js    → the chatbot logic
+README.md    → project description
+
